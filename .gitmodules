@@ -1,0 +1,4 @@
+[submodule "freedom-e-sdk"]
+	path = freedom-e-sdk
+	url = https://github.com/sifive/freedom-e-sdk.git
+	branch = v201905-branch
